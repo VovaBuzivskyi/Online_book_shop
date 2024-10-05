@@ -1,0 +1,1 @@
+This project is necessary for training in using Git
